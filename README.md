@@ -32,5 +32,3 @@ Frontend
 
 # Purpose
 This project was built as a learning-focused exercise to strengthen JavaScript fundamentals and understand how simple games work using the DOM.
-
-This project was built as a learning-focused exercise to strengthen JavaScript fundamentals and understand how simple games work using the DOM.
